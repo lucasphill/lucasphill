@@ -1,10 +1,10 @@
-# Hello World! 🚀
+# Hello World!
 
 <h2 style="border: none"> Lucas Phill </h2>
 
-### ✈️ E quem sou eu?
+### E quem sou eu?
 Desenvolvedor Fullstack de Minas Gerais (atualmente morando em Belo Horizonte/MG).  
-Sou apaixonado por tecnologia, coisas que voam ✈️, automobilismo (F1, WEC) e uma boa rotina de treinos pesados na academia 🏋️‍♂️.  
+Sou apaixonado por tecnologia, coisas que voam, automobilismo (F1, WEC) e uma boa rotina de treinos pesados na academia.  
 No trabalho diário, transito entre o desenvolvimento Fullstack, arquitetura na nuvem e pipelines de CI/CD. Estou sempre estudando e criando novos projetos para evoluir!
 
 <a href="https://www.linkedin.com/in/lucasphillscp" target="_blank"><img align="" alt="LinkedIn" width="40px" src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/d478b4b0afe6b0fec7a91269e740a51850674bc3/linkedin.svg" /></a>
